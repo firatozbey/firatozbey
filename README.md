@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me firatozbey89@gmail.com
 
+-Js-NodeJs
+-Py-Django
+-PHP-Laravel
 
-firatozbey/firatozbey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
+ echo "Hello World";
+ print "Hello World"
+ console.log("Hello World");
+ 
